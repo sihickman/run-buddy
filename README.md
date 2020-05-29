@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://sihickman.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Conttribution
 Made with love by Shaheed Hickman
